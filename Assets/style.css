@@ -1,0 +1,15 @@
+    .lesson {
+        background-color: lemonchiffon;
+    }
+    .title {
+        color: rgb(40, 40, 226);
+    }
+    #email {
+        background-color: goldenrod;
+    }
+    #github {
+        background-color: lightsteelblue;
+    }
+    #portfolio {
+        background-color: darkorange;
+    }
